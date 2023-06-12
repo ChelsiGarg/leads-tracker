@@ -1,21 +1,8 @@
-# coc8640b4ab7ea074c56f6bdc
+This is a chrome extension using which you can keep all you leads at one place.
+You can manually add the lead by writing it on input field & then click on 'SAVE INPUT' button.
+If you want to save a tab then just simply click on 'SAVE TAB' button.
+If you want to delete all the leads, click on 'DELETE ALL' button
 
-Quick start:
-
-```
-$ npm install
-$ npm start
-````
-
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
-
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+I have used chrome API to get the url of current active tab. 
+'DELETE ALL' button will work on double clicking on it.
+Btw, this is another project learnt from scrimba.
